@@ -1,0 +1,261 @@
+Matthew,1,,,25
+Matthew,2,,,23
+Matthew,3,,,17
+Matthew,4,,,25
+Matthew,5,,,48
+Matthew,6,,,34
+Matthew,7,,,29
+Matthew,8,,,34
+Matthew,9,,,38
+Matthew,10,,,42
+Matthew,11,,,30
+Matthew,12,,,50
+Matthew,13,,,58
+Matthew,14,,,36
+Matthew,15,,,39
+Matthew,16,,,28
+Matthew,17,,,27
+Matthew,18,,,35
+Matthew,19,,,30
+Matthew,20,,,34
+Matthew,21,,,46
+Matthew,22,,,46
+Matthew,23,,,39
+Matthew,24,,,51
+Matthew,25,,,46
+Matthew,26,,,75
+Matthew,27,,,66
+Matthew,28,,,20
+Mark,1,,,45
+Mark,2,,,28
+Mark,3,,,35
+Mark,4,,,41
+Mark,5,,,43
+Mark,6,,,56
+Mark,7,,,37
+Mark,8,,,38
+Mark,9,,,50
+Mark,10,,,52
+Mark,11,,,33
+Mark,12,,,44
+Mark,13,,,37
+Mark,14,,,72
+Mark,15,,,47
+Mark,16,,,20
+Luke,1,1,38,38,false
+Luke,1,39,80,42
+Luke,2,,,52
+Luke,3,,,38
+Luke,4,,,44
+Luke,5,,,39
+Luke,6,,,49
+Luke,7,,,50
+Luke,8,,,56
+Luke,9,,,62
+Luke,10,,,42
+Luke,11,,,54
+Luke,12,,,59
+Luke,13,,,35
+Luke,14,,,35
+Luke,15,,,32
+Luke,16,,,31
+Luke,17,,,37
+Luke,18,,,43
+Luke,19,,,48
+Luke,20,,,47
+Luke,21,,,38
+Luke,22,,,71
+Luke,23,,,56
+Luke,24,,,53
+John,1,,,51
+John,2,,,25
+John,3,,,36
+John,4,,,54
+John,5,,,47
+John,6,,,71
+John,7,,,53
+John,8,,,59
+John,9,,,41
+John,10,,,42
+John,11,,,57
+John,12,,,50
+John,13,,,38
+John,14,,,31
+John,15,,,27
+John,16,,,33
+John,17,,,26
+John,18,,,40
+John,19,,,42
+John,20,,,31
+John,21,,,25
+Acts,1,,,26
+Acts,2,,,47
+Acts,3,,,26
+Acts,4,,,37
+Acts,5,,,42
+Acts,6,,,15
+Acts,7,,,60
+Acts,8,,,40
+Acts,9,,,43
+Acts,10,,,48
+Acts,11,,,30
+Acts,12,,,25
+Acts,13,,,52
+Acts,14,,,28
+Acts,15,,,41
+Acts,16,,,40
+Acts,17,,,34
+Acts,18,,,28
+Acts,19,,,41
+Acts,20,,,38
+Acts,21,,,40
+Acts,22,,,30
+Acts,23,,,35
+Acts,24,,,27
+Acts,25,,,27
+Acts,26,,,32
+Acts,27,,,44
+Acts,28,,,31
+Romans,1,,,32
+Romans,2,,,29
+Romans,3,,,31
+Romans,4,,,25
+Romans,5,,,21
+Romans,6,,,23
+Romans,7,,,25
+Romans,8,,,39
+Romans,9,,,33
+Romans,10,,,21
+Romans,11,,,36
+Romans,12,,,21
+Romans,13,,,14
+Romans,14,,,23
+Romans,15,,,33
+Romans,16,,,27
+1 Corinthians,1,,,31
+1 Corinthians,2,,,16
+1 Corinthians,3,,,23
+1 Corinthians,4,,,21
+1 Corinthians,5,,,13
+1 Corinthians,6,,,20
+1 Corinthians,7,,,40
+1 Corinthians,8,,,13
+1 Corinthians,9,,,27
+1 Corinthians,10,,,33
+1 Corinthians,11,,,34
+1 Corinthians,12,,,31
+1 Corinthians,13,,,13
+1 Corinthians,14,,,40
+1 Corinthians,15,,,58
+1 Corinthians,16,,,24
+2 Corinthians,1,,,24
+2 Corinthians,2,,,17
+2 Corinthians,3,,,18
+2 Corinthians,4,,,18
+2 Corinthians,5,,,21
+2 Corinthians,6,,,18
+2 Corinthians,7,,,16
+2 Corinthians,8,,,24
+2 Corinthians,9,,,15
+2 Corinthians,10,,,18
+2 Corinthians,11,,,33
+2 Corinthians,12,,,21
+2 Corinthians,13,,,14
+Galatians,1,,,24
+Galatians,2,,,21
+Galatians,3,,,29
+Galatians,4,,,31
+Galatians,5,,,26
+Galatians,6,,,18
+Ephesians,1,,,23
+Ephesians,2,,,22
+Ephesians,3,,,21
+Ephesians,4,,,32
+Ephesians,5,,,33
+Ephesians,6,,,24
+Philippians,1,,,30
+Philippians,2,,,30
+Philippians,3,,,21
+Philippians,4,,,23
+Colossians,1,,,29
+Colossians,2,,,23
+Colossians,3,,,25
+Colossians,4,,,18
+1 Thessalonians,1,,,10
+1 Thessalonians,2,,,20
+1 Thessalonians,3,,,13
+1 Thessalonians,4,,,18
+1 Thessalonians,5,,,28
+2 Thessalonians,1,,,12
+2 Thessalonians,2,,,17
+2 Thessalonians,3,,,18
+1 Timothy,1,,,20
+1 Timothy,2,,,15
+1 Timothy,3,,,16
+1 Timothy,4,,,16
+1 Timothy,5,,,25
+1 Timothy,6,,,21
+2 Timothy,1,,,18
+2 Timothy,2,,,26
+2 Timothy,3,,,17
+2 Timothy,4,,,22
+Titus,1,,,16
+Titus,2,,,15
+Titus,3,,,15
+Philemon,1,,,25
+Hebrews,1,,,14
+Hebrews,2,,,18
+Hebrews,3,,,19
+Hebrews,4,,,16
+Hebrews,5,,,14
+Hebrews,6,,,20
+Hebrews,7,,,28
+Hebrews,8,,,13
+Hebrews,9,,,28
+Hebrews,10,,,39
+Hebrews,11,,,40
+Hebrews,12,,,29
+Hebrews,13,,,25
+James,1,,,27
+James,2,,,26
+James,3,,,18
+James,4,,,17
+James,5,,,20
+1 Peter,1,,,25
+1 Peter,2,,,25
+1 Peter,3,,,22
+1 Peter,4,,,19
+1 Peter,5,,,14
+2 Peter,1,,,21
+2 Peter,2,,,22
+2 Peter,3,,,18
+1 John,1,,,10
+1 John,2,,,29
+1 John,3,,,24
+1 John,4,,,21
+1 John,5,,,21
+2 John,1,,,13
+3 John,1,,,14
+Jude,1,,,25
+Revelation,1,,,20
+Revelation,2,,,29
+Revelation,3,,,22
+Revelation,4,,,11
+Revelation,5,,,14
+Revelation,6,,,17
+Revelation,7,,,17
+Revelation,8,,,13
+Revelation,9,,,21
+Revelation,10,,,11
+Revelation,11,,,19
+Revelation,12,,,17
+Revelation,13,,,18
+Revelation,14,,,20
+Revelation,15,,,8
+Revelation,16,,,21
+Revelation,17,,,18
+Revelation,18,,,24
+Revelation,19,,,21
+Revelation,20,,,15
+Revelation,21,,,27
+Revelation,22,,,21
